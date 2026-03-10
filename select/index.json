@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "花笑み",
+  "base_artist": "やなぎなぎ",
+  "createdAt": "2026-03-10T00:18:21.604810Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "花笑み",
+      "artist": "やなぎなぎ",
+      "has_synced": false,
+      "path": "select/pl_01_花笑み_やなぎなぎ.txt"
+    }
+  ]
+}
